@@ -41,6 +41,15 @@ form {
   margin-bottom: 15px;
 }
 
+.title h2{
+  font-family: 'Dancing Script', cursive;
+  font-size: 2rem;
+  text-decoration: underline rgba(62, 161, 219, 1) .3rem;
+}
+
+
+
+
 .inputForm {
   border: none;
   padding: 10px;
